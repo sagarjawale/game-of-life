@@ -10,6 +10,8 @@
 
 
 
+
+
     Checkstyle-Configuration: Game Of Life Checkst
     Description: 
 Slightly modified version of Sun Checks that better matches the default code formatter setting of Eclipse.
